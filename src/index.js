@@ -9,7 +9,6 @@ const testPage = (
       <li>Biriyani</li>
       <li>Burger</li>
       <li>Shwarma</li>
-      <li>Chicken Wings</li>
     </ul>
   </div>
 );
